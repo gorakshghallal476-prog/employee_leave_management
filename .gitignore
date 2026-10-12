@@ -1,0 +1,50 @@
+
+# Compiled Java files
+*.class
+
+# Build output
+/target/
+/build/
+bin/
+out/
+
+# Eclipse IDE
+.metadata/
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Maven wrapper - keep these files if used
+# mvnw
+# mvnw.cmd
+# .mvn/
+
+# Tomcat generated files
+work/
+temp/
+logs/
